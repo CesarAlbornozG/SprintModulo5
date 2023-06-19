@@ -168,7 +168,7 @@ INSERT INTO usuario_administrativo (id_usuario, area, experiencia_previa) VALUES
 (@ultimo_id, "Desarrollo Web", "10 años en diversas empresas comerciales.");
  	 
 -- -----------------------------------------------------
--- Select para poder llamar los atributos de las distintas tablas
+-- Select para poder llamar los atributos de las distintas tablas.
 -- -----------------------------------------------------
 select * from capacitacion;
 select * from contacto;
