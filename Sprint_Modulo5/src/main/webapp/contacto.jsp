@@ -19,7 +19,7 @@
 
 				<div class="mt-5 contacto">
 
-				  <h1 class="offset-1 col-10 fs-1 text-center"><strong> Enviar una consulta </strong></h1>
+				  <h1 class="offset-1 col-10 fs-1 text-center mx-auto"><strong> Enviar una consulta </strong></h1>
 				  
 				  <form id="form-contacto" action="ServletCrudContacto" method="POST" class="mx-auto col-10 offset-1 col-sm-12 col-md-11 mb-5 mt-3">
 					<div class="form-group fs-3 mt-4">
